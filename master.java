@@ -8,4 +8,11 @@ class Master{
 		int result = a + b;
 		return result;
 	}
+
+	public static int add(int a, int b,int c){
+		int result = a + b + c;
+		return result;
+	}
+
+
 }
