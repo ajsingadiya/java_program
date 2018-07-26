@@ -19,4 +19,8 @@ class Master{
 		int result = a * b;
 		return result;
 	}
+	public static long div(int a, int b){
+		int result = a / b;
+		return result;
+	}
 }
