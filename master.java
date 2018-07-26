@@ -4,13 +4,19 @@ class Master{
 		int a =10;
 		int b= 5;
 	}
-<<<<<<< HEAD
+
 	public static int add(int a, int b){
 		int result = a + b;
-=======
+		return result;
+	}
+
 	public static int sub(int a, int b){
 		int result = a - b;
->>>>>>> sub
+		return result;
+	}
+
+	public static int mul(int a, int b){
+		int result = a * b;
 		return result;
 	}
 }
