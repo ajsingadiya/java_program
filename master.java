@@ -4,4 +4,8 @@ class Master{
 		int a =10;
 		int b= 5;
 	}
+	public static int sub(int a, int b){
+		int result = a - b;
+		return result;
+	}
 }
